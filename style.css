@@ -12,8 +12,8 @@ html {
 }
 body {
     margin:0;
-    background:url(/Images/koala.JPG
-  );
+    background:url(/images/koala.jpg);
+  
     background-size: cover;
     color:azure;
     font-family: Quicksand, sans-serif;
